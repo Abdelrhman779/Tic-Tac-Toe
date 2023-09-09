@@ -117,6 +117,15 @@ i {
   font-size: 100px;
 }
 
+footer {
+  background-color: #0c0121;
+  color: white;
+  text-align: center;
+  padding: 10px;
+  font-weight: bold;
+  border: none;
+  border-radius: 5px;
+}
 /* Default styles for larger screens */
 .container {
   width: 350px;
